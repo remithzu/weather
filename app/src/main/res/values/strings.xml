@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="temperature_unit">Temperature Unit</string>
+    <string-array name="temperature">
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string name="kelvin">Kelvin</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="save">Save</string>
+    <string name="location">Location</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="min_1">Min: %1$S</string>
+    <string name="max_1">Max: %1$S</string>
+    <string name="pres_1">Pres: %1$S</string>
+    <string name="hum_1">Hum: %1$S</string>
+    <string name="sea_1">Sea: %1$S</string>
+    <string name="grnd_1">Grnd: %1$S</string>
+    <string name="wind">Wind</string>
+    <string name="speed_1">Speed: %1$S</string>
+    <string name="deg_1">Deg: %1$S</string>
+    <string name="gust_1">Gust: %1$S</string>
+    <string name="temp_r_f">%1$S / %2$S</string>
+    <string name="sunrise_1">Sunrise: %1$S</string>
+    <string name="sunset_1">Sunset: %1$S</string>
+</resources>
